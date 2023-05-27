@@ -1,8 +1,8 @@
 
 
-<img align="left" alt="left aag" src="https://i.postimg.cc/V6pRWFCM/x-flame-1.png" width="200">
+<img align="left" alt="left aag" src="https://i.postimg.cc/V6pRWFCM/x-flame-1.png" width="180">
 
-<img align="right" alt="left aag" src="https://i.postimg.cc/v8xXHCJv/x-flame-2.png" width="200">
+<img align="right" alt="left aag" src="https://i.postimg.cc/v8xXHCJv/x-flame-2.png" width="180">
 
 
 <div align="center">
