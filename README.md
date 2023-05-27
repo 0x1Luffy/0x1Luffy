@@ -1,9 +1,14 @@
 
 
+<img align="left" alt="left aag" src="https://i.postimg.cc/V6pRWFCM/x-flame-1.png" width="200">
+
+<img align="right" alt="left aag" src="https://i.postimg.cc/v8xXHCJv/x-flame-2.png" width="200">
+
 
 <div align="center">
  <img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif#gh-dark-mode-only">
 
+ 
 </div>
 
 
@@ -23,6 +28,7 @@
 ---
 
 ## 🔭 My LeetCode Stats:
+
   ![Chetan_Kesare LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Chetan_Kesare&theme=dark)
 
 
