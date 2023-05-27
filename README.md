@@ -4,9 +4,9 @@
 
 
 <div align="center">
- <img align="left" alt="left aag" src="https://i.postimg.cc/V6pRWFCM/x-flame-1.png" width="180">
+ <img align="left" alt="left aag" src="https://i.postimg.cc/V6pRWFCM/x-flame-1.png" width="120">
 
-<img align="right" alt="left aag" src="https://i.postimg.cc/v8xXHCJv/x-flame-2.png" width="180">
+<img align="right" alt="left aag" src="https://i.postimg.cc/v8xXHCJv/x-flame-2.png" width="120">
  <img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif#gh-dark-mode-only">
 
  
