@@ -1,6 +1,4 @@
 
-![MasterHead](https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFkIUA3Afw&#x2F;view?embed)
-## 
 
 
 <div align="center">
