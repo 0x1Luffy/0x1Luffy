@@ -1,4 +1,4 @@
-[![MasterHead](https://ufile.io/eq0x679l)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Chetan Kesare</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
