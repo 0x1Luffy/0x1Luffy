@@ -1,3 +1,5 @@
+<section align="center"><img src="https://i.ibb.co/7QXxbKR/wepik-hand-drawn-tokyo-anime-banner-20230914200214-HZl3.jpg"/></section>
+
 <h1 align="center">Hi 👋, I'm Chetan Kesare</h1>
 <h3 align="center">I am <b>Self Taught Web Developer From India</b></h3>
 
@@ -5,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x1Luffy&label=Profile%20views&color=0e75b6&style=flat" alt="Chetan" /> </p>
 
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently Doing UX case-study on **Mobile Gaming Video App**
 
 - 🌱 I’m currently learning **UI/UX Designing**
 
