@@ -1,5 +1,5 @@
 
-<h4 align="center"><samp>Hi there 👋🏾 Welcome to my GitHub! I'm a Full Stack Developer and Professional Bug Slayer. I enjoy Web 3 and am currently exploring Solana 🕸️ ⛓️</samp></h4>
+<h4 align="center"><samp>Hi there 👋🏾 Welcome to my GitHub! I'm a Full Stack Developer, Making the web faster, smoother & a little cooler every day. Currently learning DevOps to enhance my skills in automation, CI/CD, and cloud infrastructure ☁️🚀</samp></h4>
 
 <p align="center">
   <img width="350" src="https://i.ibb.co/TrYTws1/tenor.gif">
